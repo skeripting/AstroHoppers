@@ -1,0 +1,20 @@
+s 2 2
+s 0 0
+s 4 0
+s 2 2
+s 3 3
+s 1 1
+s 0 0
+s 2 2
+reset
+h
+h
+h
+h
+load hoppers-7.txt
+s 0 0
+s 1 1
+s 3 3
+s 3 1
+s 0 1
+quit

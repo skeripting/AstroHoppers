@@ -1,0 +1,38 @@
+s 0 3
+m w
+s 0 4
+m w
+s 0 1
+m s
+s 0 0
+m e
+s 0 1
+m s
+s 3 1
+m e
+s 4 1
+m n
+s 3 3
+m w
+s 3 4
+m w
+s 3 2
+m n
+s 3 1
+m e
+s 3 2
+m n
+r
+h
+h
+h
+h
+load astro-7.txt
+s 0 1
+s 1 2
+s 0 0
+m e
+m e
+s 5 7
+m w
+quit
